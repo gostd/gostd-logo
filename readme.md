@@ -7,7 +7,7 @@ The **official logo** of **Open Standards** organization.
 ## Description
 
 The official logo of **Open Standards** organization, **"The Stronghold"** symbolizes the trust, stability, 
-confidence and referability with to the community-driven, open organization.
+confidence and referability with the community-driven, open organization.
 
 ## Details
 

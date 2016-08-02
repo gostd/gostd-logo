@@ -1,4 +1,4 @@
-# Open Standards Official Logo (The Rook)
+# Open Standards Official Logo (The Stronghold)
 
 ![openstds](logo.png)
 
@@ -6,7 +6,7 @@ The **official logo** of **Open Standards** organization.
 
 ## Description
 
-The official logo of **Open Standards** organization, **"The Rook"** symbolizes the trust, stability, 
+The official logo of **Open Standards** organization, **"The Stronghold"** symbolizes the trust, stability, 
 confidence and referability with to the community-driven, open organization.
 
 ## Details
